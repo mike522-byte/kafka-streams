@@ -1,0 +1,6 @@
+[2025-05-05 23:55:33,687] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
+[2025-05-05 23:55:33,710] INFO [Broker id=1] Creating new partition streams-plaintext-input-0 with topic id Kjar2BM7QXiE83Hbn_QD3A. (state.change.logger)
+[2025-05-05 23:55:33,748] INFO [Broker id=1] Leader streams-plaintext-input-0 with topic id Some(Kjar2BM7QXiE83Hbn_QD3A) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
+[2025-05-05 23:56:16,975] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
+[2025-05-05 23:56:16,976] INFO [Broker id=1] Creating new partition streams-wordcount-output-0 with topic id cjr6qOAGSk2vZFUpBHjVjA. (state.change.logger)
+[2025-05-05 23:56:16,985] INFO [Broker id=1] Leader streams-wordcount-output-0 with topic id Some(cjr6qOAGSk2vZFUpBHjVjA) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)

@@ -1,0 +1,6 @@
+[2025-05-06 15:03:31,153] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
+[2025-05-06 15:03:31,186] INFO [Broker id=1] Creating new partition streams-linesplit-output-0 with topic id NnGh29JZQASDQAepLAWNoQ. (state.change.logger)
+[2025-05-06 15:03:31,196] INFO [Broker id=1] Leader streams-linesplit-output-0 with topic id Some(NnGh29JZQASDQAepLAWNoQ) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
+[2025-05-06 15:04:52,154] INFO [Broker id=1] Deleting 1 partition(s). (state.change.logger)
+[2025-05-06 15:09:06,645] INFO [Broker id=1] Deleting 1 partition(s). (state.change.logger)
+[2025-05-06 15:09:22,621] INFO [Broker id=1] Deleting 1 partition(s). (state.change.logger)
